@@ -1,0 +1,33 @@
+INFO  p6spy - 1730805370352|1|statement|connection 1|url jdbc:p6spy:postgresql://localhost:5432/exone|select version()|select version()
+INFO  p6spy - 1730805370833|5|statement|connection 1|url jdbc:p6spy:postgresql://localhost:5432/exone|select * from information_schema.sequences|select * from information_schema.sequences
+INFO  p6spy - 1730805370833|5|statement|connection 11|url jdbc:postgresql://localhost:5432/exone|select * from information_schema.sequences|select * from information_schema.sequences
+INFO  p6spy - 1730805370859|0|statement|connection 1|url jdbc:p6spy:postgresql://localhost:5432/exone|select * from "public"."projet" where 1=0|select * from "public"."projet" where 1=0
+INFO  p6spy - 1730805370860|0|statement|connection 11|url jdbc:postgresql://localhost:5432/exone|select * from "public"."projet" where 1=0|select * from "public"."projet" where 1=0
+INFO  p6spy - 1730805370864|0|statement|connection 1|url jdbc:p6spy:postgresql://localhost:5432/exone|select * from "public"."users" where 1=0|select * from "public"."users" where 1=0
+INFO  p6spy - 1730805370864|0|statement|connection 11|url jdbc:postgresql://localhost:5432/exone|select * from "public"."users" where 1=0|select * from "public"."users" where 1=0
+INFO  p6spy - 1730805370871|0|statement|connection 1|url jdbc:p6spy:postgresql://localhost:5432/exone|select * from "public"."projet" where 1=0|select * from "public"."projet" where 1=0
+INFO  p6spy - 1730805370871|0|statement|connection 11|url jdbc:postgresql://localhost:5432/exone|select * from "public"."projet" where 1=0|select * from "public"."projet" where 1=0
+INFO  p6spy - 1730805370873|0|statement|connection 1|url jdbc:p6spy:postgresql://localhost:5432/exone|select * from "public"."users" where 1=0|select * from "public"."users" where 1=0
+INFO  p6spy - 1730805370873|0|statement|connection 11|url jdbc:postgresql://localhost:5432/exone|select * from "public"."users" where 1=0|select * from "public"."users" where 1=0
+p6spy - 1730805505388|1|statement|connection 1|url jdbc:p6spy:postgresql://localhost:5432/exone|select version()|select version()
+p6spy - 1730805505847|15|statement|connection 1|url jdbc:p6spy:postgresql://localhost:5432/exone|select * from information_schema.sequences|select * from information_schema.sequences
+p6spy - 1730805505847|16|statement|connection 11|url jdbc:postgresql://localhost:5432/exone|select * from information_schema.sequences|select * from information_schema.sequences
+p6spy - 1730805505868|0|statement|connection 1|url jdbc:p6spy:postgresql://localhost:5432/exone|select * from "public"."projet" where 1=0|select * from "public"."projet" where 1=0
+p6spy - 1730805505868|0|statement|connection 11|url jdbc:postgresql://localhost:5432/exone|select * from "public"."projet" where 1=0|select * from "public"."projet" where 1=0
+p6spy - 1730805505874|0|statement|connection 1|url jdbc:p6spy:postgresql://localhost:5432/exone|select * from "public"."users" where 1=0|select * from "public"."users" where 1=0
+p6spy - 1730805505874|0|statement|connection 11|url jdbc:postgresql://localhost:5432/exone|select * from "public"."users" where 1=0|select * from "public"."users" where 1=0
+p6spy - 1730805505883|0|statement|connection 1|url jdbc:p6spy:postgresql://localhost:5432/exone|select * from "public"."projet" where 1=0|select * from "public"."projet" where 1=0
+p6spy - 1730805505883|0|statement|connection 11|url jdbc:postgresql://localhost:5432/exone|select * from "public"."projet" where 1=0|select * from "public"."projet" where 1=0
+p6spy - 1730805505884|0|statement|connection 1|url jdbc:p6spy:postgresql://localhost:5432/exone|select * from "public"."users" where 1=0|select * from "public"."users" where 1=0
+p6spy - 1730805505884|0|statement|connection 11|url jdbc:postgresql://localhost:5432/exone|select * from "public"."users" where 1=0|select * from "public"."users" where 1=0
+1730805526778|1|statement|connection 1|url jdbc:p6spy:postgresql://localhost:5432/exone|select version()|select version()
+1730805527204|4|statement|connection 1|url jdbc:p6spy:postgresql://localhost:5432/exone|select * from information_schema.sequences|select * from information_schema.sequences
+1730805527204|5|statement|connection 11|url jdbc:postgresql://localhost:5432/exone|select * from information_schema.sequences|select * from information_schema.sequences
+1730805527229|0|statement|connection 1|url jdbc:p6spy:postgresql://localhost:5432/exone|select * from "public"."projet" where 1=0|select * from "public"."projet" where 1=0
+1730805527229|0|statement|connection 11|url jdbc:postgresql://localhost:5432/exone|select * from "public"."projet" where 1=0|select * from "public"."projet" where 1=0
+1730805527233|0|statement|connection 1|url jdbc:p6spy:postgresql://localhost:5432/exone|select * from "public"."users" where 1=0|select * from "public"."users" where 1=0
+1730805527233|0|statement|connection 11|url jdbc:postgresql://localhost:5432/exone|select * from "public"."users" where 1=0|select * from "public"."users" where 1=0
+1730805527241|0|statement|connection 1|url jdbc:p6spy:postgresql://localhost:5432/exone|select * from "public"."projet" where 1=0|select * from "public"."projet" where 1=0
+1730805527241|0|statement|connection 11|url jdbc:postgresql://localhost:5432/exone|select * from "public"."projet" where 1=0|select * from "public"."projet" where 1=0
+1730805527242|0|statement|connection 1|url jdbc:p6spy:postgresql://localhost:5432/exone|select * from "public"."users" where 1=0|select * from "public"."users" where 1=0
+1730805527242|0|statement|connection 11|url jdbc:postgresql://localhost:5432/exone|select * from "public"."users" where 1=0|select * from "public"."users" where 1=0
